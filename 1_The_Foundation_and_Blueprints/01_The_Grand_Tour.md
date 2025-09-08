@@ -1,4 +1,4 @@
-# The DSA Architect's Toolkit: Your Grand Tour
+# The DSA Toolkit: Your Grand Tour
 
 ## 🏛️ Part 1: The Foundation & The Blueprints
 - **Start Here!**

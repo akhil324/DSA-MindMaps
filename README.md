@@ -1,13 +1,13 @@
-# 🏛️ The DSA Architect's Toolkit 🏛️
+# 🏛️ The DSA Toolkit 🏛️
 ### A Visual Journey to Mastering Data Structures & Algorithms
 
-Welcome, future code architect! This repository is designed to be your one-stop, visual guide to mastering Data Structures and Algorithms. Forget dry, dense textbooks. Here, we learn by seeing, connecting, and building—just like a real architect.
+Welcome! This repository is designed to be your one-stop, visual guide to mastering Data Structures and Algorithms. Forget dry, dense textbooks. Here, we learn by seeing, connecting, and building—just like a real architect.
 
 Our mission is to transform complex DSA concepts into clear, interconnected mind maps and provide targeted practice to help you build a strong foundation for acing coding interviews and writing brilliant code.
 
 ---
 
-### The Architect's Journey: A Three-Part Plan
+### The Journey: A Three-Part Plan
 
 This repository is structured in three simple, progressive parts. Follow them in order to go from apprentice to master.
 
@@ -15,7 +15,7 @@ This repository is structured in three simple, progressive parts. Follow them in
 Before you can build, you must learn the principles. This section covers the absolute essentials: what DSA is, why it matters, and how we measure the quality of our work (Big O Notation).
 
 #### **Part 2: The Core Toolkit**
-Every architect needs their tools. This section is your toolbox, filled with the fundamental data structures (the materials) and the core algorithms (the tools) you'll use to construct solutions.
+This section is your toolbox, filled with the fundamental data structures (the materials) and the core algorithms (the tools) you'll use to construct solutions.
 
 #### **Part 3: The Strategic Playbook & The Drill**
 This is where you learn and practice master techniques. We explore powerful problem-solving patterns and then test your recognition skills with a curated list of problems. This is your guide to strategy, advanced designs, and acing the interview.
