@@ -17,8 +17,11 @@ Before you can build, you must learn the principles. This section covers the abs
 #### **Part 2: The Core Toolkit**
 This section is your toolbox, filled with the fundamental data structures (the materials) and the core algorithms (the tools) you'll use to construct solutions.
 
-#### **Part 3: The Strategic Playbook & The Drill**
-This is where you learn and practice master techniques. We explore powerful problem-solving patterns and then test your recognition skills with a curated list of problems. This is your guide to strategy, advanced designs, and acing the interview.
+#### **Part 3: The Strategic Playbook**
+This is where you learn and explore powerful problem-solving patterns. This is your guide to strategy, advanced designs, and acing the interview.
+
+#### **Part 4: The Pattern Recognition Drill**
+This is where you practice and master your techniques. We provide a Cognitive Cheatsheet and then test your recognition skills with a curated list of problems.
 
 ---
 
