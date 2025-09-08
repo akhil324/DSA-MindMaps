@@ -26,10 +26,10 @@ graph TD
 
     E --> M{Dependencies or Order?};
     M -- Yes --> N[Think: **Topological Sort**];
-    M -- No --> O[Think: **BFS** (shortest path) or **DFS** (all paths)];
+    M -- No --> O["Think: **BFS** (shortest path) or **DFS** (all paths)"];
 
     F --> P{Find the 'k' largest/smallest?};
-    P -- Yes --> Q[Think: **Top K Elements (Heap)**];
+    P -- Yes --> Q["Think: **Top K Elements (Heap)**"];
     P -- No --> R[Think: **Subsets/Backtracking** or **DP**];
 ```
 
