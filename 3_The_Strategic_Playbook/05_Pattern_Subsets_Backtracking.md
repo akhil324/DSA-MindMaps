@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'orange'
----
+
 
 # The Playbook: Subsets & Backtracking
 
@@ -54,7 +51,7 @@ function findSubsets(inputArray):
   return allSubsets
 ```
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Medium:**
   - [Subsets](https://leetcode.com/problems/subsets/)
   - [Permutations](https://leetcode.com/problems/permutations/)

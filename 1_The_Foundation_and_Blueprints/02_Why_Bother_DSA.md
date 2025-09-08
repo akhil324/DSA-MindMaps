@@ -1,8 +1,3 @@
----
-markmap:
-  colorScheme: 'teal'
----
-
 # Why Bother with DSA?
 
 ## 🏛️ Data Structures (The Materials)

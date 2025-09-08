@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'orange'
----
+
 
 # The Playbook: Dynamic Programming (DP)
 
@@ -40,7 +37,7 @@ markmap:
 - **Memoization:** Often more intuitive to write (closer to the recursive thought process).
 - **Tabulation:** Can be more space-efficient and avoids recursion depth limits.
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy:**
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)

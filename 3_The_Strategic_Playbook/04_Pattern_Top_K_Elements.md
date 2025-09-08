@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'orange'
----
+
 
 # The Playbook: Top K Elements
 
@@ -42,7 +39,7 @@ markmap:
        - Add the current element to the heap (`heap.add(element)`).
   4. After the loop, the heap contains the `k` largest elements.
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy/Medium:**
   - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - **Medium:**

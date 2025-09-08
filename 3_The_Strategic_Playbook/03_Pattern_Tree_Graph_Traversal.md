@@ -1,8 +1,3 @@
----
-markmap:
-  colorScheme: 'teal'
----
-
 # The Playbook: Tree & Graph Traversal
 
 ## 🌊 Breadth-First Search (BFS)

@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'indigo'
----
+
 
 # The Playbook: Fast & Slow Pointers
 
@@ -63,7 +60,7 @@ markmap:
   2.  **Step 2:** Reset one pointer (e.g., `slow`) back to the `head`. Keep the other pointer (`fast`) at the meeting point.
   3.  **Step 3:** Move both pointers one step at a time. The node where they meet again is the start of the cycle.
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy:**
   - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)

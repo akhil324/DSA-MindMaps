@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'indigo'
----
+
 
 # The Playbook: Modified Binary Search
 
@@ -48,7 +45,7 @@ while (left <= right):
       right = mid - 1 // Go left
 ```
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Medium:**
   - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)

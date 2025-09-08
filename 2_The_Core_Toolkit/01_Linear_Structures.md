@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'indigo'
----
+
 
 # The Core Toolkit: Linear Structures
 

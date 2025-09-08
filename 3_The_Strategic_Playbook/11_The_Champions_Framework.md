@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'gold'
----
+
 
 # The Playbook: The Champion's Framework
 

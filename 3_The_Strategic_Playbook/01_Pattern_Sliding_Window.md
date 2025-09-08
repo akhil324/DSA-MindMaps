@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'orange'
----
+
 
 # The Playbook: Sliding Window Pattern
 
@@ -48,7 +45,7 @@ markmap:
   //    b. Update maxLength
   ```
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy:**
   - [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-subarray/) (Note: LeetCode's classic version is slightly different, but the fixed-window concept applies)
 - **Medium:**

@@ -1,8 +1,3 @@
----
-markmap:
-  colorScheme: 'orange'
----
-
 # The Playbook: Two Pointers Pattern
 
 ## 💡 The Big Idea
@@ -43,7 +38,7 @@ markmap:
 - **Example Problem:** "Detect if a linked list has a cycle."
 - **The Logic:** If there is a cycle, the `fast` pointer will eventually lap the `slow` pointer and they will meet. If `fast` reaches the end (`null`), there is no cycle.
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy:**
   - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)

@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'indigo'
----
+
 
 # The Playbook: Topological Sort
 
@@ -42,7 +39,7 @@ markmap:
     - After the loop, if the size of your sorted list is equal to the total number of nodes, you have a valid topological sort.
     - If the size is smaller, it means there was a cycle in the graph, and it was impossible to process all nodes.
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Medium:**
   - [Course Schedule](https://leetcode.com/problems/course-schedule/) (Detecting if a sort is possible)
   - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Actually producing the sorted order)

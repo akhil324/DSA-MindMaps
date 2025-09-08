@@ -1,8 +1,3 @@
----
-markmap:
-  colorScheme: 'teal'
----
-
 # Measuring Success: Understanding Big O
 
 ## 🤔 What is Big O?

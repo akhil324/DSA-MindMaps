@@ -1,7 +1,4 @@
----
-markmap:
-  colorScheme: 'indigo'
----
+
 
 # The Playbook: Greedy Algorithms
 
@@ -36,7 +33,7 @@ markmap:
   - You have a knapsack with a weight limit. You can't just greedily pick the most valuable item, because it might be very heavy and fill up your whole bag, preventing you from picking several other items that are slightly less valuable but have a much higher combined value.
   - **(This is a classic DP problem, not a greedy one!)**
 
-## 经典蓝图 (Classic Blueprints)
+## Classic Blueprints
 - **Easy:**
   - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - **Medium:**
