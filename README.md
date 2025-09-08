@@ -3,7 +3,7 @@
 
 Welcome, future code architect! This repository is designed to be your one-stop, visual guide to mastering Data Structures and Algorithms. Forget dry, dense textbooks. Here, we learn by seeing, connecting, and building—just like a real architect.
 
-Our mission is to transform complex DSA concepts into clear, interconnected mind maps that help you build a strong foundation for acing coding interviews and writing brilliant code.
+Our mission is to transform complex DSA concepts into clear, interconnected mind maps and provide targeted practice to help you build a strong foundation for acing coding interviews and writing brilliant code.
 
 ---
 
@@ -17,8 +17,8 @@ Before you can build, you must learn the principles. This section covers the abs
 #### **Part 2: The Core Toolkit**
 Every architect needs their tools. This section is your toolbox, filled with the fundamental data structures (the materials) and the core algorithms (the tools) you'll use to construct solutions.
 
-#### **Part 3: The Strategic Playbook**
-This is where you learn the master techniques. We'll explore powerful problem-solving patterns that turn complex problems into manageable ones. This is your guide to strategy, advanced designs, and acing the interview.
+#### **Part 3: The Strategic Playbook & The Drill**
+This is where you learn and practice master techniques. We explore powerful problem-solving patterns and then test your recognition skills with a curated list of problems. This is your guide to strategy, advanced designs, and acing the interview.
 
 ---
 
@@ -34,19 +34,28 @@ This is where you learn the master techniques. We'll explore powerful problem-so
     *   [02. Non-Linear Structures (Hash Tables, Trees, Heaps, Graphs)](./2_The_Core_Toolkit/02_Non_Linear_Structures.md)
     *   [03. The Sorting Workshop](./2_The_Core_Toolkit/03_The_Sorting_Workshop.md)
 
-*   **Part 3: The Strategic Playbook**
-    *   [01. Pattern: Sliding Window](./3_The_Strategic_Playbook/01_Pattern_Sliding_Window.md)
-    *   [02. Pattern: Two Pointers](./3_The_Strategic_Playbook/02_Pattern_Two_Pointers.md)
-    *   [03. Pattern: Tree & Graph Traversal (BFS & DFS)](./3_The_Strategic_Playbook/03_Pattern_Tree_Graph_Traversal.md)
-    *   [04. Pattern: Top K Elements](./3_The_Strategic_Playbook/04_Pattern_Top_K_Elements.md)
-    *   [05. Pattern: Subsets & Backtracking](./3_The_Strategic_Playbook/05_Pattern_Subsets_Backtracking.md)
-    *   [06. Pattern: Dynamic Programming](./3_The_Strategic_Playbook/06_Pattern_Dynamic_Programming.md)
-    *   [07. Pattern: Topological Sort](./3_The_Strategic_Playbook/07_Pattern_Topological_Sort.md)
-    *   [08. Pattern: Greedy Algorithms](./3_The_Strategic_Playbook/08_Pattern_Greedy_Algorithms.md)
-    *   [09. Pattern: Modified Binary Search](./3_The_Strategic_Playbook/09_Pattern_Modified_Binary_Search.md)
-    *   [10. Pattern: Fast & Slow Pointers](./3_The_Strategic_Playbook/10_Pattern_Fast_and_Slow_Pointers.md)
-    *   [11. The Champion's Framework: Acing the Interview](./3_The_Strategic_Playbook/11_The_Champions_Framework.md)
-    *   [12. The Ultimate Cheatsheet](./3_The_Strategic_Playbook/12_The_Ultimate_Cheatsheet.md)
+*   **Part 3: The Strategic Playbook & The Drill**
+    *   **Pattern Mind Maps:**
+        *   [01. Pattern: Sliding Window](./3_The_Strategic_Playbook/01_Pattern_Sliding_Window.md)
+        *   [02. Pattern: Two Pointers](./3_The_Strategic_Playbook/02_Pattern_Two_Pointers.md)
+        *   [03. Pattern: Tree & Graph Traversal (BFS & DFS)](./3_The_Strategic_Playbook/03_Pattern_Tree_Graph_Traversal.md)
+        *   [04. Pattern: Top K Elements](./3_The_Strategic_Playbook/04_Pattern_Top_K_Elements.md)
+        *   [05. Pattern: Subsets & Backtracking](./3_The_Strategic_Playbook/05_Pattern_Subsets_Backtracking.md)
+        *   [06. Pattern: Dynamic Programming](./3_The_Strategic_Playbook/06_Pattern_Dynamic_Programming.md)
+        *   [07. Pattern: Topological Sort](./3_The_Strategic_Playbook/07_Pattern_Topological_Sort.md)
+        *   [08. Pattern: Greedy Algorithms](./3_The_Strategic_Playbook/08_Pattern_Greedy_Algorithms.md)
+        *   [09. Pattern: Modified Binary Search](./3_The_Strategic_Playbook/09_Pattern_Modified_Binary_Search.md)
+        *   [10. Pattern: Fast & Slow Pointers](./3_The_Strategic_Playbook/10_Pattern_Fast_and_Slow_Pointers.md)
+    *   **Frameworks & Cheatsheets:**
+        *   [11. The Champion's Framework: Acing the Interview](./3_The_Strategic_Playbook/11_The_Champions_Framework.md)
+        *   [12. The Ultimate Cheatsheet](./3_The_Strategic_Playbook/12_The_Ultimate_Cheatsheet.md)
+*   **Part 4: The Drill**
+    *   **The Pattern Recognition Drill:**
+        *   [14. The DSA Diagnostic Toolkit (Cognitive Cheatsheet)](./4_Drills/01_Pattern_Identification_Cognitive_Cheatsheet.md)
+        *   [Drill: Easy Set 1 (Questions 1-25)](./4_Drills/02_Drill_Easy_Set_1.md)
+        *   [Drill: Medium Set 1 (Questions 26-50)](./4_Drills/03_Drill_Medium_Set_1.md)
+        *   [Drill: Hard Set 2 (Questions 51-75)](./4_Drills/04_Drill_Medium_Hard_Set_2.md)
+        *   [Drill: Hard Set 3 (Questions 76-100)](./4_Drills/05_Drill_Hard_Set_3.md)
 
 ---
 
