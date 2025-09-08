@@ -49,13 +49,12 @@ This is where you learn and practice master techniques. We explore powerful prob
     *   **Frameworks & Cheatsheets:**
         *   [11. The Champion's Framework: Acing the Interview](./3_The_Strategic_Playbook/11_The_Champions_Framework.md)
         *   [12. The Ultimate Cheatsheet](./3_The_Strategic_Playbook/12_The_Ultimate_Cheatsheet.md)
-*   **Part 4: The Drill**
-    *   **The Pattern Recognition Drill:**
-        *   [14. The DSA Diagnostic Toolkit (Cognitive Cheatsheet)](./4_Drills/01_Pattern_Identification_Cognitive_Cheatsheet.md)
-        *   [Drill: Easy Set 1 (Questions 1-25)](./4_Drills/02_Drill_Easy_Set_1.md)
-        *   [Drill: Medium Set 1 (Questions 26-50)](./4_Drills/03_Drill_Medium_Set_1.md)
-        *   [Drill: Hard Set 2 (Questions 51-75)](./4_Drills/04_Drill_Medium_Hard_Set_2.md)
-        *   [Drill: Hard Set 3 (Questions 76-100)](./4_Drills/05_Drill_Hard_Set_3.md)
+*   **Part 4: The Pattern Recognition Drill:**
+    *   [01. The DSA Diagnostic Toolkit (Cognitive Cheatsheet)](./4_Drills/01_Pattern_Identification_Cognitive_Cheatsheet.md)
+    *   [02. Drill: Easy Set 1 (Questions 1-25)](./4_Drills/02_Drill_Easy_Set_1.md)
+    *   [03. Drill: Medium Set 1 (Questions 26-50)](./4_Drills/03_Drill_Medium_Set_1.md)
+    *   [04. Drill: Hard Set 2 (Questions 51-75)](./4_Drills/04_Drill_Medium_Hard_Set_2.md)
+    *   [05. Drill: Hard Set 3 (Questions 76-100)](./4_Drills/05_Drill_Hard_Set_3.md)
 
 ---
 
