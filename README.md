@@ -7,7 +7,7 @@ Our mission is to transform complex DSA concepts into clear, interconnected mind
 
 ---
 
-### The Journey: A Three-Part Plan
+### The Journey: A Four-Part Plan
 
 This repository is structured in three simple, progressive parts. Follow them in order to go from apprentice to master.
 
